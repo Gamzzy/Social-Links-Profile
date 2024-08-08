@@ -1,0 +1,135 @@
+.container {
+            background-color: rgba(29, 34, 34, 0.5);
+            margin: auto;
+            margin-top: 100px;
+            width: 20%;
+            height: 70vh;
+            border-radius: 10px;
+}
+img {
+    border-radius: 50%;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+h2 {
+    color: white;
+    text-align: center;
+    font-weight: lighter;
+    font-size: large;
+}
+p {
+    color: rgba(255, 215, 0, 0.7);
+    text-align: center;
+    font-weight: lighter;
+    font-size: x-small;
+    margin-top: -10px;
+}
+.profile {
+       color: rgba(255, 255, 255, 0.8);
+       text-align: center;
+       font-weight: lighter;
+       margin-top: 20px;
+       margin-bottom: 20px;
+       }
+.handles {
+        margin: 20px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.handles .Github {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    background-color: rgba(65, 65, 65, 0.5);
+    font-size: smaller;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+.handles .Github:hover {
+        color: black;
+        background-color: rgb(168, 218, 32);
+        font-weight: bold;   
+}
+.handles .Frontend {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    background-color: rgba(65, 65, 65, 0.5);
+    font-size: smaller;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+.handles .Frontend:hover {
+        color: black;
+        background-color: rgb(168, 218, 32);
+        font-weight: bold;   
+}
+.handles .LinkedIn {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    background-color: rgba(65, 65, 65, 0.5);
+    font-size: smaller;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+.handles .LinkedIn:hover {
+        color: black;
+        background-color: rgb(168, 218, 32);
+        font-weight: bold;   
+}
+.handles .Twitter {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    background-color: rgba(65, 65, 65, 0.5);
+    font-size: smaller;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+.handles .Twitter:hover {
+        color: black;
+        background-color: rgb(168, 218, 32);
+        font-weight: bold;   
+}
+.handles .Instagram {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    background-color: rgba(65, 65, 65, 0.5);
+    font-size: smaller;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+.handles .Instagram:hover {
+        color: black;
+        background-color: rgb(168, 218, 32);
+        font-weight: bold;   
+}
+.attribution { 
+    display: flex;
+    justify-content: center;
+    font-size: 11px; 
+    text-align: center; 
+    color: white;
+    margin-top: 70px;
+    border: none;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+    text-decoration: none;
+}
